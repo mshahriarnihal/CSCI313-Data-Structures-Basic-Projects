@@ -1,10 +1,7 @@
-/* Student's Name: Mubasshir Al Shahriar, CUNYFirst ID: 24398818
-   Submitting To : Dr. Alla Rozovskaya
-   Course Name   : CSCI 313: Data Structures (Mon-Wednesday 3:10 p.m)
-
-   Assignment #2, Problem #3: Implement a skip list class. Save it in file skipList.java. Use randomization to promote nodes to higher levels. Implement the following methods: skipInsert(k,v) – to insert in a skip list entry with key k and value v; skipRemove(k) – to remove position corresponding to key k from all levels in the skipList; skipSearch(k) - to search for key k in the skip list (returns position corresponding to key k in the bottom list, or null if k is not found). The java file should include the main method that creates a skip list from the hardcoded sequence of 10 integers and prints out the resulting list to stdout. */
 
 
+/*   Author's Name: Mubasshir Al Shahriar
+Relevant Course   : CSCI 313: Data Structures */
 
 
 
