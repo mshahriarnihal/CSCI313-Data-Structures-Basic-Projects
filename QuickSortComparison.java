@@ -1,13 +1,7 @@
 
 
-/* Student's Name: Mubasshir Al Shahriar, CUNYFirst ID: 24398818
-   Submitting To : Dr. Alla Rozovskaya
-   Course Name   : CSCI 313: Data Structures (Mon-Wednesday 3:10 p.m)
-
-   Assignment #3, Problem #3: Implement deterministic and randomized versions of the quick-sort algorithm and perform a series of benchmarking tests to see which one is faster.
-                              Your tests should include sequences that are very “random” looking as well as ones that are “almost” sorted. */
-
-
+/*   Author's Name: Mubasshir Al Shahriar
+Relevant Course   : CSCI 313: Data Structures (Mon-Wednesday 3:10 p.m) */
 
 
 
