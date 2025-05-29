@@ -1,6 +1,6 @@
 
 /*   Author's Name: Mubasshir Al Shahriar
-Relevant Course   : CSCI 313: Data Structures (Mon-Wednesday 3:10 p.m) */
+Relevant Course   : CSCI 313: Data Structures */
 
 
 
