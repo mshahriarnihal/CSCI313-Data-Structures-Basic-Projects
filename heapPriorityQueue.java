@@ -1,10 +1,7 @@
-/* Student's Name: Mubasshir Al Shahriar, CUNYFirst ID: 24398818
-   Submitting To : Dr. Alla Rozovskaya
-   Course Name   : CSCI 313: Data Structures (Mon-Wednesday 3:10 p.m)
 
-   Assignment #2, Problem #1: Use the HeapPriorityQueue class on pp. 377-378 in the book. Reimplement the downheap and upheap methods, such that these methods use recursion (and no loop). Save the code in file heapPriorityQueue.java. The file should contain the main method that will create a heap using a sequence of insert operations:
-(5,A), (4,B),(7,F),(1,D),(3,J),(6,L),(8,G),(2,H). */
 
+/*   Author's Name: Mubasshir Al Shahriar
+Relevant Course   : CSCI 313: Data Structures (Mon-Wednesday 3:10 p.m) */
 
 
 
