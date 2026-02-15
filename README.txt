@@ -3,7 +3,7 @@ Read Me File:
    Author's Name : Mubasshir Al Shahriar (Nihal)
  Relevant Course : CSCI 313: Data Structures (CUNY QC)
    
-This repository contains some small and basic projects I built with Java while taking my Data Structures course (CSCI-313) at Queens College of The City University of New York.
+This repository contains some small and basic projects I built with Java while taking my Data Structures course (CSCI-313) under the supervision of Dr. Rozovskaya at Queens College of The City University of New York.
 
 
 This read me file shows how to run my codes and brief explanation of how my coded programs work.
